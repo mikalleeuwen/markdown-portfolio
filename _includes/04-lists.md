@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Cats
+2. Trees
+3. Money
+
+* With Money, I mean
+  * Euros
+  * Dollars
